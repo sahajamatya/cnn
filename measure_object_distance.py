@@ -1,4 +1,3 @@
-#https://pysource.com
 import cv2
 from realsense_camera import *
 from mask_rcnn import *
